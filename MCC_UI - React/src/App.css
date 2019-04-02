@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Martel:700,400);
+
+html body {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    font-family: Lato, sans-serif;
+    color: #595959
+}
+
+.landing{margin-top: 100px;}
+
+.landing button{
+    height: 75px;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.detail{
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    background: #fdfdfd;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+.withdraw{color: #ff0000 }
+.deposit{ color: #58ad58}
